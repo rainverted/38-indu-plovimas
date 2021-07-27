@@ -32,6 +32,9 @@ restoran.cleanUp(60);
 restoran.buyPlates(10);
 // Restoran purchased 10 plates.
 
+restoran.intro();
+// Hi, this restoran has 60 plates!
+
 restoran.usePlates(20);
 // Restoran has made some dishes for 20 plates.
 
